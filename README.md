@@ -22,9 +22,11 @@ A simple application capable of obtaining names registered in the Mysql database
  
 ### 🛠 What you needed
 - [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
 
 ### 🚀 How to run ?
->docker-compose up -d
+
+```git clone https://github.com/abauruel/docker-compose-training.git && docker-compose up -d```
 
 
 
